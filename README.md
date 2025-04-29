@@ -29,8 +29,8 @@ Este projeto simula o funcionamento de um elevador utilizando PHP orientado a ob
 Primeiro, clone o repositório do projeto:
 
 ```bash
-git clone https://seu-repositorio-aqui
-cd elevator
+git clone https://github.com/GabrielStenzowski/elevator_test_catalise_group.git
+cd elevator_test_catalise_group
 ```
 
 ### 2. Instalar as Dependências
