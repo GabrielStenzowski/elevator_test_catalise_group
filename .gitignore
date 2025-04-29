@@ -1,0 +1,23 @@
+# Ignorar pastas de dependências
+/vendor/
+
+# Ignorar arquivos de configuração do Composer
+composer.lock
+
+# Ignorar arquivos temporários e de cache do PHP
+*.log
+*.cache
+*.swp
+*.swo
+*.bak
+
+# Ignorar arquivos de configuração do IDE (por exemplo, VSCode, PhpStorm)
+.vscode/
+.idea/
+
+# Ignorar arquivos do sistema (ex: macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos gerados por builds
+/build/
